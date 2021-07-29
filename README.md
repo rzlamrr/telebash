@@ -45,6 +45,9 @@ You can also use this wrapper as a bot (the script will process every new update
 - echo | Repeat what you say
 - info | Core module that provides basic functionalities that you would expect in a Telegram bot
 - weather | Get weather updates of a city
+- speedtest | run internet speed test
+- neofetch | fetch os system info
+- cowsay | mooooo
 
 Note: Modules list is kept low since I'm more interested on using this as a wrapper
 
